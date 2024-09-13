@@ -130,7 +130,9 @@ To ensure robust performance, we used 5-fold cross-validation to evaluate the mo
 	•	The best model achieved an F1_score of 0.9459459459459458 on the test set.
 	•	Random Forest was the top-performing model, with the highest accuracy after hyperparameter tuning.
  <img width="1336" alt="Screenshot 2024-09-13 at 11 39 48 AM" src="https://github.com/user-attachments/assets/2b6db5c0-5913-450c-aac4-0770af4de485">
+<h2>Novelty Factor</h2>
 
+This project showcases the importance of using feature engineering, hyperparameter tuning, and cross-validation to build robust models in the context of medical data. Furthermore, it demonstrates the application of interpretability techniques like feature importance analysis and explores the deployment potential of such a model in real-world medical decision support systems. The novelty also lies in combining multiple machine learning techniques and comparing their performance on the breast cancer dataset.
 
 Conclusion
 
