@@ -3,6 +3,7 @@
 <br/>
 <h3>Jay Kapadiya - 9471899901</h3>
 <br/>
+
 <h3>Jaydev Gupta - 8657307877<h3>
   
 <br/>
@@ -107,6 +108,7 @@ For optimizing model performance, GridSearchCV was used to fine-tune the hyperpa
 	•	Number of trees for Random Forest.
 	•	Regularization strength for Logistic Regression.
 	•	Kernel type for SVM.
+ <img width="1375" alt="Screenshot 2024-09-13 at 11 30 38 AM" src="https://github.com/user-attachments/assets/89917b29-90d9-4afc-ad38-88fdf13df75c">
 
 4. Model Training and Evaluation
 
@@ -117,6 +119,7 @@ The models were trained using the training data and evaluated on the test set us
 	•	Precision: The proportion of true positive cases out of all predicted positive cases.
 	•	Recall: The proportion of actual positive cases that were correctly predicted.
 	•	F1-Score: The harmonic mean of precision and recall.
+<img width="1336" alt="Screenshot 2024-09-13 at 11 32 13 AM" src="https://github.com/user-attachments/assets/f0fdf470-1ad6-4507-93a0-f1c6f2cec5bc">
 
 5. Cross-Validation
 
