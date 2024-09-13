@@ -134,6 +134,8 @@ This project showcases the importance of using feature engineering, hyperparamet
 	•	The best model achieved an F1_score of 0.9459459459459458 on the test set.
 	•	Random Forest was the top-performing model, with the highest accuracy after hyperparameter tuning.
  <img width="1336" alt="Screenshot 2024-09-13 at 11 39 48 AM" src="https://github.com/user-attachments/assets/2b6db5c0-5913-450c-aac4-0770af4de485">
+ <img width="593" alt="Screenshot 2024-09-13 at 11 50 22 AM" src="https://github.com/user-attachments/assets/2a8619c3-6e6a-4435-8d9a-0db58561573f">
+
 
 Conclusion
 
