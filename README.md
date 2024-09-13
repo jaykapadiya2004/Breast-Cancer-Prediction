@@ -127,9 +127,10 @@ To ensure robust performance, we used 5-fold cross-validation to evaluate the mo
 
 <h2>Results</h2>
 
-	•	The best model achieved an accuracy of X% on the test set.
+	•	The best model achieved an F1_score of 0.9459459459459458 on the test set.
 	•	Random Forest was the top-performing model, with the highest accuracy after hyperparameter tuning.
-	•	Visualizations such as confusion matrices and ROC curves were used to evaluate model performance and trade-offs between precision and recall.
+ <img width="1336" alt="Screenshot 2024-09-13 at 11 39 48 AM" src="https://github.com/user-attachments/assets/2b6db5c0-5913-450c-aac4-0770af4de485">
+
 
 Conclusion
 
