@@ -12,7 +12,12 @@
 
 Breast cancer is one of the most common types of cancer affecting women worldwide. Early detection can significantly improve survival rates by allowing timely medical intervention. In this project, we build a machine learning model to predict whether a tumor is benign or malignant based on various clinical features. This model can serve as a decision support tool for healthcare professionals in identifying cancerous tumors early.
 
+<h2>Dependencies</h2>
+
+
 <h2>Dataset Description</h2>
+<img width="593" alt="Screenshot 2024-09-13 at 11 51 13 AM" src="https://github.com/user-attachments/assets/57575d77-bddd-409b-aafa-26c4365efc9d">
+
 
 The dataset contains features related to breast cancer diagnostics, such as the size, shape, and texture of cell nuclei. Each record represents a patient, and the dataset includes the following columns:
 
