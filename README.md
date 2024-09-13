@@ -72,6 +72,13 @@ Key Findings from EDA:
 	•	The dataset is relatively balanced, with a slightly higher number of benign cases.
 	•	Certain features like radius_mean, area_mean, and concavity_mean showed significant differences between benign and malignant tumors, suggesting their predictive power.
 	•	Strong correlations were found between radius_mean and area_mean, indicating potential redundancy.
+<h2> Images of EDA<h2>
+<img width="973" alt="Screenshot 2024-09-13 at 11 23 56 AM" src="https://github.com/user-attachments/assets/28b5cba6-8778-4e14-974b-1bf7ce014ff7">
+<img width="1222" alt="Screenshot 2024-09-13 at 11 23 32 AM" src="https://github.com/user-attachments/assets/4ac593b3-b477-4c1a-9dc8-083d861384ca">
+<img width="1208" alt="Screenshot 2024-09-13 at 11 23 16 AM" src="https://github.com/user-attachments/assets/5e041724-b2dc-46ec-80f8-bac2a107302f">
+<img width="1208" alt="Screenshot 2024-09-13 at 11 23 10 AM" src="https://github.com/user-attachments/assets/68c3aa6e-61c5-4d92-a49e-b80bb75db173">
+<img width="616" alt="Screenshot 2024-09-13 at 11 24 50 AM" src="https://github.com/user-attachments/assets/35f4432d-ca25-4697-a673-bd8ded41ae02">
+<img width="1208" alt="Screenshot 2024-09-13 at 11 23 00 AM" src="https://github.com/user-attachments/assets/72656d22-2e05-4658-89f8-39181c0ed85a">
 
 <h2>Approach</h2>
 
@@ -104,6 +111,7 @@ For optimizing model performance, GridSearchCV was used to fine-tune the hyperpa
 4. Model Training and Evaluation
 
 The models were trained using the training data and evaluated on the test set using the following metrics:
+
 
 	•	Accuracy: The proportion of correct predictions.
 	•	Precision: The proportion of true positive cases out of all predicted positive cases.
