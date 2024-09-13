@@ -145,3 +145,5 @@ This project showcases the importance of using feature engineering, hyperparamet
 Conclusion
 
 The Random Forest Classifier provided the best performance in predicting whether a breast tumor is benign or malignant. With further optimization, this model can serve as an effective tool for early detection of breast cancer.
+
+
